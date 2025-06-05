@@ -10,6 +10,7 @@
   <img width="832" alt="Знімок екрана 2025-06-05 о 17 26 01" src="https://github.com/user-attachments/assets/bafa6cb6-d32a-4577-9447-ed0b8e6c7525" />
 
 2. В запиті також присутній нелогічний JOIN
+   
    <img width="591" alt="Знімок екрана 2025-06-05 о 17 59 13" src="https://github.com/user-attachments/assets/2d061043-cc3d-4e6c-b8a8-09fe16da6e5d" />
 
    Замінила його на підзапит:
