@@ -5,7 +5,9 @@
 
 ### Початковий запит:
   <img width="392" alt="Знімок екрана 2025-06-05 о 17 25 20" src="https://github.com/user-attachments/assets/8696e59e-2508-4814-9aa7-35fceeda9fb8" />
-  
+### Оптимізований:
+  <img width="567" alt="Знімок екрана 2025-06-05 о 18 42 39" src="https://github.com/user-attachments/assets/5d469810-bb15-4c5f-a63d-622dc9042971" />
+
 1.Першочергово можемо побачити, що повторюється фільтр, отже його треба винести як CTE
   <img width="832" alt="Знімок екрана 2025-06-05 о 17 26 01" src="https://github.com/user-attachments/assets/bafa6cb6-d32a-4577-9447-ed0b8e6c7525" />
 
